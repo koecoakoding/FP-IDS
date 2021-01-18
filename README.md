@@ -54,15 +54,9 @@ rules:
 
 Mengatur rules yang diinginkan
 
-```
-alert:
-  active: false
-  provider: "telegram"
+Setelah itu menggunakan command `tail -f /var/log/nginx/access.log | teler -c /path/to/config/teler.yaml` Untuk menjalankan programnya
 
-notifications:
+![gambar](https://user-images.githubusercontent.com/55182321/104919459-dc57b980-59c8-11eb-822d-34094a690a2e.png)
 
-  telegram:
-    token: "1586573348:AAEMD9Y4h1X74TcfJRXX5KO-t2hxBw9X96M"
-    chat_id: "1445022037"
-```
-Dan mengatur nontifikasi 
+Akan keluar seperti gambar di atas jika sudah di jalankan
+
