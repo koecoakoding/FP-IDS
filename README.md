@@ -82,3 +82,22 @@ Setelah itu membuat bot discord melalui https://discord.com/developers/applicati
 
 ![gambar](https://user-images.githubusercontent.com/55182321/106352226-beb51900-6313-11eb-9f25-c4283f692250.png)
 
+5. Masukan BOT ke server discord
+
+![gambar](https://user-images.githubusercontent.com/55182321/106373276-772d9c00-63aa-11eb-8dca-31b0870efade.png)
+
+6. Buat index.js dengan isi
+
+![gambar](https://user-images.githubusercontent.com/55182321/106373136-24071980-63a9-11eb-9152-2eaaa0c5f745.png)
+
+7. Lalu buat file config.json dengan isi token dari bot dan juga prefix
+
+![gambar](https://user-images.githubusercontent.com/55182321/106373203-b90a1280-63a9-11eb-9007-0485747f53d5.png)
+
+8. Jalankan node `index.js` berbarengan dengan menjalankan teler
+
+![gambar](https://user-images.githubusercontent.com/55182321/106373326-02a72d00-63ab-11eb-8950-82d9e09dccad.png)
+
+9. Kembali ke discord dan ketikan prefix `!gas`
+
+![gambar](https://user-images.githubusercontent.com/55182321/106373385-73e6e000-63ab-11eb-8d1a-93af68eb9d7e.png)
